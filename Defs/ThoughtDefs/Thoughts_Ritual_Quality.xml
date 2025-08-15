@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+    <ThoughtDef>
+        <defName>TerribleTechProgress</defName>
+        <thoughtClass>Thought_AttendedRitual</thoughtClass>
+        <durationDays>6</durationDays>
+        <stackLimit>2</stackLimit>
+        <stages>
+            <li>
+                <label>Terrible Tech Progress Meeting</label>
+                <description>It's more like a quarrel than a discussion.</description>
+                <baseMoodEffect>-5</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>MediocreTechProgress</defName>
+        <thoughtClass>Thought_AttendedRitual</thoughtClass>
+        <durationDays>6</durationDays>
+        <stackLimit>1</stackLimit>
+        <stages>
+            <li>
+                <label>Mediocre Tech Progress Meeting</label>
+                <description>We have finally opened up a path to progress.</description>
+                <baseMoodEffect>+2</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>EffectiveTechProgress</defName>
+        <thoughtClass>Thought_AttendedRitual</thoughtClass>
+        <durationDays>6</durationDays>
+        <stackLimit>1</stackLimit>
+        <stages>
+            <li>
+                <label>Effective Tech Progress Meeting</label>
+                <description>It's like having a brain massage.</description>
+                <baseMoodEffect>+5</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>UnforgettableTechProgress</defName>
+        <thoughtClass>Thought_AttendedRitual</thoughtClass>
+        <durationDays>6</durationDays>
+        <stackLimit>1</stackLimit>
+        <stages>
+            <li>
+                <label>Unforgettable Tech Progress Meeting</label>
+                <description>The door to the next stage has opened for us, waiting for us to explore!</description>
+                <baseMoodEffect>+8</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+</Defs>

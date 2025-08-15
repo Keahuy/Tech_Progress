@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: researcher count -->
+    <TerribleTechProgress.stages.0.label>糟糕的科技进步会议</TerribleTechProgress.stages.0.label>
+    <!-- EN: It's more like a quarrel than a discussion -->
+    <TerribleTechProgress.stages.0.description>与其说是讨论，不如说是吵架。</TerribleTechProgress.stages.0.description>
+    <!-- EN: Mediocre Tech Progress Meeting -->
+    <MediocreTechProgress.stages.0.label>差强人意的科技进步会议</MediocreTechProgress.stages.0.label>
+    <!-- EN: We have finally opened up a path to progress -->
+    <MediocreTechProgress.stages.0.description>我们终于开辟出了进步的道路。</MediocreTechProgress.stages.0.description>
+    <!-- EN: Mediocre Tech Progress Meeting -->
+    <EffectiveTechProgress.stages.0.label>卓有成效的科技进步会议</EffectiveTechProgress.stages.0.label>
+    <!-- EN: It's like having a brain massage -->
+    <EffectiveTechProgress.stages.0.description>就像做了一次大脑按摩。</EffectiveTechProgress.stages.0.description>
+    <!-- EN: Mediocre Tech Progress Meeting -->
+    <UnforgettableTechProgress.stages.0.label>令人印象深刻的科技进步会议</UnforgettableTechProgress.stages.0.label>
+    <!-- EN: We have finally opened up a path to progress -->
+    <UnforgettableTechProgress.stages.0.description>下一阶段的大门已向我们打开，只待我们去探索！</UnforgettableTechProgress.stages.0.description>
+    
+</LanguageData>

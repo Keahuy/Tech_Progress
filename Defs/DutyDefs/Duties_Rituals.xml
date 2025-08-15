@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <DutyDef>
+        <defName>KYTP_Party</defName>
+        <hook>HighPriority</hook>
+        <ritualSpectateTarget>true</ritualSpectateTarget>
+        <thinkNode Class="ThinkNode_Priority">
+            <subNodes>
+                <li Class="ThinkNode_ConditionalInGatheringArea">
+                    <subNodes>
+                        <li Class="JobGiver_WanderInGatheringArea" />
+                    </subNodes>
+                </li>
+                
+                <!-- 前往仪式地点 -->
+                <li Class="JobGiver_SpectateInCircleDuty"/>
+            </subNodes>
+        </thinkNode>
+    </DutyDef>
+</Defs>

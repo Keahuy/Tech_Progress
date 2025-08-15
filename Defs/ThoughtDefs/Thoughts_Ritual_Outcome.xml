@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <ThoughtDef>
+        <defName>EffectiveTechProgressForOther</defName>
+        <thoughtClass>Thought_AttendedRitual</thoughtClass>
+        <durationDays>6</durationDays>
+        <stackLimit>1</stackLimit>
+        <stages>
+            <li>
+                <label>Effective Tech Progress Meeting</label>
+                <description>Can I live a better life now?</description>
+                <baseMoodEffect>+3</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>UnforgettableTechProgressForOther</defName>
+        <thoughtClass>Thought_AttendedRitual</thoughtClass>
+        <durationDays>6</durationDays>
+        <stackLimit>1</stackLimit>
+        <stages>
+            <li>
+                <label>Unforgettable Tech Progress Meeting</label>
+                <description>Our colony will become even stronger!</description>
+                <baseMoodEffect>+5</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+</Defs>

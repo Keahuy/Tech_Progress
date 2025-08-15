@@ -1,0 +1,6 @@
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechnologyProgress\1.6\Assemblies\KYTechProgress.dll
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechnologyProgress\1.6\Assemblies\KYTechProgress.pdb
+F:\[]\[]Game\RimWorld\自制MOD\[KY]TechnologyProgress\Source\KYTechProgress\KYTechProgress\obj\Debug\KYTechProgress.csproj.AssemblyReference.cache
+F:\[]\[]Game\RimWorld\自制MOD\[KY]TechnologyProgress\Source\KYTechProgress\KYTechProgress\obj\Debug\KYTechProgress.csproj.CoreCompileInputs.cache
+F:\[]\[]Game\RimWorld\自制MOD\[KY]TechnologyProgress\Source\KYTechProgress\KYTechProgress\obj\Debug\KYTechProgress.dll
+F:\[]\[]Game\RimWorld\自制MOD\[KY]TechnologyProgress\Source\KYTechProgress\KYTechProgress\obj\Debug\KYTechProgress.pdb

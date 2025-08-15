@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <KYTechProgress.RitualOutcomeEffectDef_DoubleChance>
+        <defName>KY_TechProgress</defName>
+        <workerClass>KYTechProgress.RitualOutcomeEffectWorker_TechProgress</workerClass>
+        <extraInfoLines>
+            <li>If finished optional percentage over threshold: \n\n  - Mediocre: 50%\n  - Effective: 30%\n  - Unforgettable: 20%\n\nIf the Tech Progress is unforgettable, Some of colonist even found some inspiration from it.</li>
+        </extraInfoLines>
+        <warnOnLowQuality>true</warnOnLowQuality>
+        <givesDevelopmentPoints>true</givesDevelopmentPoints>
+        <comps>
+            <li Class="RitualOutcomeComp_ParticipantCount">
+                <label>researcher count</label>
+                <curve>
+                    <points>
+                        <li>(1, 0.05)</li>
+                        <li>(10, 0.2)</li>
+                    </points>
+                </curve>
+            </li>
+            <li Class="KYTechProgress.RitualOutcomeComp_FinishResearchPercentage">
+                <label>finished optional percentage</label>
+            </li>
+            <li Class="KYTechProgress.RitualOutcomeComp_MaxResearchSkill">
+                <label>Max Intelligence Skill</label>
+            </li>
+            <li Class="KYTechProgress.RitualOutcomeComp_FinishPercentageOverThreshold">
+                <label>Is over threshold?</label>
+            </li>
+        </comps>
+        <outcomeChances>
+            <li>
+                <label>Terrible</label>
+                <chance>0.6</chance>
+                <memory>TerribleTechProgress</memory>
+                <description>The {0} was terrible!The people participating in the meeting were more like arguing than discussing.</description>
+                <positivityIndex>-1</positivityIndex>
+            </li>
+            <li>
+                <label>Mediocre</label>
+                <chance>0.25</chance>
+                <memory>MediocreTechProgress</memory>
+                <description>The {0} was mediocre.With the efforts of all the researchers, we finally found the path to progress.</description>
+                <positivityIndex>0</positivityIndex>
+            </li>
+            <li>
+                <label>Effective</label>
+                <chance>0.1</chance>
+                <memory>EffectiveTechProgress</memory>
+                <description>The {0} was effective.The researcher has carried on the past and opened the door to the next stage smoothly.</description>
+                <potentialExtraOutcomeDesc>The exciting technological breakthroughs have put all the colonists in a good mood.</potentialExtraOutcomeDesc>
+                <positivityIndex>1</positivityIndex>
+            </li>
+            <li>
+                <label>Unforgettable</label>
+                <chance>0.05</chance>
+                <memory>UnforgettableTechProgress</memory>
+                <description>The {0} was unforgettable!The researchers were immersed in the conference, and inspiration kept emerging</description>
+                <potentialExtraOutcomeDesc>The exciting technological breakthroughs have put all the colonists in a good mood.\nSome of them even found some inspiration from it.</potentialExtraOutcomeDesc>
+                <positivityIndex>2</positivityIndex>
+            </li>
+        </outcomeChances>
+        <anotherOutcomeChances>
+            <li>
+                <label>Mediocre</label>
+                <chance>0.5</chance>
+                <memory>MediocreTechProgress</memory>
+                <description>The {0} was mediocre.With the efforts of all the researchers, we finally found the path to progress.</description>
+                <positivityIndex>0</positivityIndex>
+            </li>
+            <li>
+                <label>Effective</label>
+                <chance>0.3</chance>
+                <memory>EffectiveTechProgress</memory>
+                <description>The {0} was effective.The researcher has carried on the past and opened the door to the next stage smoothly.</description>
+                <potentialExtraOutcomeDesc>The exciting technological breakthroughs have put all the colonists in a good mood.</potentialExtraOutcomeDesc>
+                <positivityIndex>1</positivityIndex>
+            </li>
+            <li>
+                <label>Unforgettable</label>
+                <chance>0.2</chance>
+                <memory>UnforgettableTechProgress</memory>
+                <description>The {0} was unforgettable!The researchers were immersed in the conference, and inspiration kept emerging</description>
+                <potentialExtraOutcomeDesc>The exciting technological breakthroughs have put all the colonists in a good mood.\nSome of them even found some inspiration from it.</potentialExtraOutcomeDesc>
+                <positivityIndex>2</positivityIndex>
+            </li>
+        </anotherOutcomeChances>
+    </KYTechProgress.RitualOutcomeEffectDef_DoubleChance>
+</Defs>

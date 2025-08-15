@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <RitualBehaviorDef>
+        <defName>KY_TechProgress</defName>
+        <durationTicks>15000</durationTicks>
+        <workerClass>KYTechProgress.RitualBehaviorWorker_TechProgress</workerClass>
+        <spectatorFilter Class="KYTechProgress.RitualSpectatorFilter_Reseachable">
+            <description>Must can Reseach.</description>
+        </spectatorFilter>
+        <roles /><!-- 可以空着，但必须要有 -->
+        <spectatorsLabel>Researchers</spectatorsLabel><!-- 出席者Label -->
+        <spectatorGerund>Researcher</spectatorGerund><!-- 出席者Label动名词 -->
+        <stages>
+            <li>
+                <defaultDuty>KYTP_Party</defaultDuty>
+                <endTriggers>
+                    <li Class="StageEndTrigger_DurationPercentage">
+                        <percentage>1</percentage>
+                    </li>
+                </endTriggers>
+            </li>
+        </stages>
+    </RitualBehaviorDef>
+</Defs>

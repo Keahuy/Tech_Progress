@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[KY]Tech Progress</name>
+    <author>keahuy</author>
+    <packageId>keahuy.TechnologyProgress</packageId>
+    <description>This mod add a conditionally adjustable tech level progress feature \n\nUse:\n  - ModIcon and RitualGizmo: IconPark(https://github.com/bytedance/IconPark), licensed under the Apache License 2.0.</description>
+    <modVersion>1.0</modVersion>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+</ModMetaData>

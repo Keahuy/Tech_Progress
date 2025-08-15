@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: researcher count -->
+  <KY_TechProgress.extraInfoLines.0>如果完成度超过阈值：\n\n  - 差强人意的：50%\n  - 卓有成效的：30%\n  - 令人印象深刻的：20%\n\n如果科技进阶是令人印象深刻的，一些殖民者可能因此获得灵感</KY_TechProgress.extraInfoLines.0>
+  <!-- EN: researcher count -->
+  <KY_TechProgress.comps.0.label>研究员数量</KY_TechProgress.comps.0.label>
+  <!-- EN: finished optional research percentage -->
+  <KY_TechProgress.comps.1.label>可选研究完成度</KY_TechProgress.comps.1.label>
+  <!-- EN: Max Intelligence Skill -->
+  <KY_TechProgress.comps.2.label>最高智识技能</KY_TechProgress.comps.2.label>
+  <!-- EN: Is over threshold? -->
+  <KY_TechProgress.comps.3.label>完成度超过阈值</KY_TechProgress.comps.3.label>
+  <!-- EN: Terrible -->
+  <KY_TechProgress.outcomeChances.0.label>糟糕的</KY_TechProgress.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible!The people participating in the meeting were more like arguing than discussing. -->
+  <KY_TechProgress.outcomeChances.0.description>{0}太糟糕了！参与会议的人们与其说是在讨论，不如说是在吵架。</KY_TechProgress.outcomeChances.0.description>
+  <!-- EN: Mediocre -->
+  <KY_TechProgress.outcomeChances.1.label>差强人意的</KY_TechProgress.outcomeChances.1.label>
+  <!-- EN: The {0} was mediocre.With the efforts of all the researchers, we finally found the path to progress. -->
+  <KY_TechProgress.outcomeChances.1.description>{0}差强人意。在全体研究员的努力下最终找到了进步的道路。</KY_TechProgress.outcomeChances.1.description>
+  <!-- EN: Effective -->
+  <KY_TechProgress.outcomeChances.2.label>卓有成效的</KY_TechProgress.outcomeChances.2.label>
+  <!-- EN: The {0} was effective.The researcher has carried on the past and opened the door to the next stage smoothly. -->
+  <KY_TechProgress.outcomeChances.2.description>{0}卓有成效。研究员继往开来，顺利打开了下一阶段的大门。</KY_TechProgress.outcomeChances.2.description>
+  <!-- EN: The exciting technological breakthroughs have put all the colonists in a good mood. -->
+  <KY_TechProgress.outcomeChances.2.potentialExtraOutcomeDesc>振奋人心的技术突破使全体殖民者获得了一个好心情。</KY_TechProgress.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <KY_TechProgress.outcomeChances.3.label>令人印象深刻的</KY_TechProgress.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable!The researchers were immersed in the conference, and inspiration kept emerging -->
+  <KY_TechProgress.outcomeChances.3.description>{0}令人印象深刻。研究员们沉浸在会议中，灵感不断涌现.</KY_TechProgress.outcomeChances.3.description>
+  <!-- EN: The exciting technological breakthroughs have put all the colonists in a good mood.\nSome of them even found some inspiration from it. -->
+  <KY_TechProgress.outcomeChances.3.potentialExtraOutcomeDesc>振奋人心的技术突破使全体殖民者获得了一个好心情。\n一些殖民者从中获得了些许灵感。</KY_TechProgress.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Mediocre -->
+  <KY_TechProgress.anotherOutcomeChances.0.label>差强人意的</KY_TechProgress.anotherOutcomeChances.0.label>
+  <!-- EN: The {0} was mediocre.With the efforts of all the researchers, we finally found the path to progress. -->
+  <KY_TechProgress.anotherOutcomeChances.0.description>{0}差强人意。在全体研究员的努力下最终找到了进步的道路。</KY_TechProgress.anotherOutcomeChances.0.description>
+  <!-- EN: Effective -->
+  <KY_TechProgress.anotherOutcomeChances.1.label>卓有成效的</KY_TechProgress.anotherOutcomeChances.1.label>
+  <!-- EN: The {0} was effective.The researcher has carried on the past and opened the door to the next stage smoothly. -->
+  <KY_TechProgress.anotherOutcomeChances.1.description>{0}卓有成效。研究员继往开来，顺利打开了下一阶段的大门。</KY_TechProgress.anotherOutcomeChances.1.description>
+  <!-- EN: The exciting technological breakthroughs have put all the colonists in a good mood. -->
+  <KY_TechProgress.anotherOutcomeChances.1.potentialExtraOutcomeDesc>振奋人心的技术突破使全体殖民者获得了一个好心情。</KY_TechProgress.anotherOutcomeChances.1.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <KY_TechProgress.anotherOutcomeChances.2.label>令人印象深刻的</KY_TechProgress.anotherOutcomeChances.2.label>
+  <!-- EN: The {0} was unforgettable!The researchers were immersed in the conference, and inspiration kept emerging -->
+  <KY_TechProgress.anotherOutcomeChances.2.description>{0}令人印象深刻。研究员们沉浸在会议中，灵感不断涌现.</KY_TechProgress.anotherOutcomeChances.2.description>
+  <!-- EN: The exciting technological breakthroughs have put all the colonists in a good mood.\nSome of them even found some inspiration from it. -->
+  <KY_TechProgress.anotherOutcomeChances.2.potentialExtraOutcomeDesc>振奋人心的技术突破使全体殖民者获得了一个好心情。\n一些殖民者从中获得了些许灵感。</KY_TechProgress.anotherOutcomeChances.2.potentialExtraOutcomeDesc>
+  
+</LanguageData>

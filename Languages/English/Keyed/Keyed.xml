@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: Researchers came together for a brainstorming session to jointly explore avenues toward the next technological level. -->
+  <KYRitualDescription>Researchers came together for a brainstorming session to jointly explore avenues toward the next technological level.</KYRitualDescription>
+    <!-- EN: \nCurrentTechLevel:  -->
+  <KYRitualCurrentTechLevel>\nCurrentTechLevel </KYRitualCurrentTechLevel>
+    <!-- EN: \nNextTechLevel:  -->
+  <KYRitualNextTechLevel>\nNextTechLevel: </KYRitualNextTechLevel>
+    <!-- EN: Research Bench -->
+  <RitualTargetKYTechProgressTableInfo>Research Bench</RitualTargetKYTechProgressTableInfo>
+    <!-- EN: advance to the next technology level need:  -->
+  <CurrentlyConfiguredTechLevelInfo>advance to the next tech level need: </CurrentlyConfiguredTechLevelInfo>
+    <!-- EN: Left-click: Move to "Necessary"\nMiddle-click or Shift+Left-click: Move to "Optional"\nRight-click: Move to "Not Allocation" -->
+  <TechProgressControlInfo>Left-click: Move to "Necessary"\nMiddle-click or Shift+Left-click: Move to "Optional"\nRight-click: Move to "Not Allocation"</TechProgressControlInfo>
+    <!-- EN: NoSelected -->
+  <KYNoSelected>NoSelected</KYNoSelected>
+    <!-- EN: Technology Progress -->
+  <RitualOutcomeEffectWorker_TechProgress>Technology Progress</RitualOutcomeEffectWorker_TechProgress>
+    <!-- EN: {0} Necessary research project unfinished -->
+  <HasNecessaryResearchProjectUnfinished>{0} Necessary research project unfinished</HasNecessaryResearchProjectUnfinished>
+    <!-- EN: The necessary research project has not been set up. Please proceed to Moddsetting to make the necessary settings. -->
+  <MissNecessaryResearchProjectSetting>The necessary research project has not been set up. Please proceed to Moddsetting to make the necessary settings.</MissNecessaryResearchProjectSetting>
+    <!-- EN: Necessary -->
+  <TechProgressNecessary>Necessary</TechProgressNecessary>
+    <!-- EN: Optional -->
+  <TechProgressOptional>Optional</TechProgressOptional>
+    <!-- EN: Not Allocation -->
+  <TechProgressNotAllocation>Not Allocation</TechProgressNotAllocation>
+    <!-- EN: {0}Optional finished:  -->
+  <FinishResearchPercentageQualityEffect>{0}Optional finished: </FinishResearchPercentageQualityEffect>
+    <!-- EN: MaxIntelligenceSkillInParticipants:  -->
+  <MaxIntelligenceSkillInParticipants>Max Intelligence Skill: </MaxIntelligenceSkillInParticipants>
+    <!-- EN: Inspired by the advancement of technology, {PAWN_nameIndef} has gained an inspiration! -->
+  <TechProgressMeetingInspiration>Inspired by the advancement of technology, {PAWN_nameIndef} has gained an inspiration!</TechProgressMeetingInspiration>
+    <!-- EN: The threshold for tech progress:  -->
+  <ThresholdForProgress>The threshold for tech progress: </ThresholdForProgress>
+
+</LanguageData>

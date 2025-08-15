@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: Researchers came together for a brainstorming session to jointly explore avenues toward the next technological level. -->
+  <KYRitualDescription>研究者们齐聚一堂，集思广益，共同探索通往下一个技术级别的途径。</KYRitualDescription>
+    <!-- EN: \nCurrentTechLevel:  -->
+  <KYRitualCurrentTechLevel>\n当前技术级别: </KYRitualCurrentTechLevel>
+    <!-- EN: \nNextTechLevel:  -->
+  <KYRitualNextTechLevel>\n下一技术级别: </KYRitualNextTechLevel>
+    <!-- EN: Research Bench -->
+  <RitualTargetKYTechProgressTableInfo>研究台</RitualTargetKYTechProgressTableInfo>
+    <!-- EN: advance to the next technology level need:  -->
+  <CurrentlyConfiguredTechLevelInfo>升至下一技术阶段所需条件：</CurrentlyConfiguredTechLevelInfo>
+      <!-- EN: Left-click: Move to "Necessary"\nMiddle-click or Shift+Left-click: Move to "Optional"\nRight-click: Move to "Not Allocation" -->
+  <TechProgressControlInfo>左键单击: 移动到 "必要"\n中键单击 或 Shift + 左键单击: 移动到 "可选"\n右键单击: 移动到 "未分配"</TechProgressControlInfo>
+    <!-- EN: NoSelected -->
+  <KYNoSelected>未选中</KYNoSelected>
+    <!-- EN: Technology Progress -->
+  <RitualOutcomeEffectWorker_TechProgress>科技进阶</RitualOutcomeEffectWorker_TechProgress>
+    <!-- EN: {0} Necessary research project unfinished -->
+  <HasNecessaryResearchProjectUnfinished>仍有{0}项未完成的必要研究</HasNecessaryResearchProjectUnfinished>
+    <!-- EN: The necessary research project has not been set up. Please proceed to Moddsetting to make the necessary settings. -->
+  <MissNecessaryResearchProjectSetting>未设置必要的研究项目，请在Moddsetting中进行设置</MissNecessaryResearchProjectSetting>
+    <!-- EN: Necessary -->
+  <TechProgressNecessary>必要</TechProgressNecessary>
+    <!-- EN: Optional -->
+  <TechProgressOptional>可选</TechProgressOptional>
+    <!-- EN: Not Allocation -->
+  <TechProgressNotAllocation>无关</TechProgressNotAllocation>
+    <!-- EN: {0}Optional finished:  -->
+  <FinishResearchPercentageQualityEffect>已完成{0}可选研究：</FinishResearchPercentageQualityEffect>
+    <!-- EN: MaxIntelligenceSkillInParticipants:  -->
+  <MaxIntelligenceSkillInParticipants>最高智识技能：</MaxIntelligenceSkillInParticipants>
+    <!-- EN: Inspired by the advancement of technology, {PAWN_nameIndef} has gained an inspiration! -->
+  <TechProgressMeetingInspiration>受到科技进阶的激励，{PAWN_nameIndef}获得了一个灵感！</TechProgressMeetingInspiration>
+    <!-- EN: The threshold for tech progress:  -->
+  <ThresholdForProgress>升阶所需可选研究完成度阈值：</ThresholdForProgress>
+
+</LanguageData>

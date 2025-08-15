@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <PreceptDef>
+        <defName>KY_TechProgress</defName>
+        <label>Technology Progress</label>
+        <issue>Ritual</issue>
+        <preceptClass>Precept_Ritual</preceptClass>
+        <visible>false</visible>
+        <classic>true</classic>
+        <countsTowardsPreceptLimit>false</countsTowardsPreceptLimit>
+        <selectionWeight>1.0</selectionWeight>
+        <ritualPatternBase>KY_TechProgress</ritualPatternBase>
+        <iconPath>UI/Icons/Rituals/KY_TechProgress</iconPath>
+        <usesIdeoVisualEffects>false</usesIdeoVisualEffects>
+        <mergeRitualGizmosFromAllIdeos>true</mergeRitualGizmosFromAllIdeos>
+        <useRepeatPenalty>false</useRepeatPenalty>
+        <showRitualFloatMenuOption>false</showRitualFloatMenuOption>
+		<notifyPlayerOnOpportunity>false</notifyPlayerOnOpportunity>
+    </PreceptDef>
+
+</Defs>

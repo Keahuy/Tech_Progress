@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<RitualPatternDef>
+		<defName>KY_TechProgress</defName>
+		<descOverride>Researchers came together for a brainstorming session to jointly explore avenues toward the next technological level.</descOverride>
+		<ritualOnlyForIdeoMembers>false</ritualOnlyForIdeoMembers>
+		<ritualBehavior>KY_TechProgress</ritualBehavior>
+		<ritualTargetFilter>SelectedThing</ritualTargetFilter>
+		<ritualObligationTargetFilter>KY_TechProgress</ritualObligationTargetFilter>
+		<ritualOutcomeEffect>KY_TechProgress</ritualOutcomeEffect>
+		<playsIdeoMusic>false</playsIdeoMusic>
+		<alwaysStartAnytime>true</alwaysStartAnytime>
+	</RitualPatternDef>
+
+</Defs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Must can Reseach. -->
+  <KY_TechProgress.spectatorFilter.description>必须能从事智识工作</KY_TechProgress.spectatorFilter.description>
+  <!-- EN: Researcher -->
+  <KY_TechProgress.spectatorGerund>研究员</KY_TechProgress.spectatorGerund>
+  <!-- EN: Researchers -->
+  <KY_TechProgress.spectatorsLabel>研究员</KY_TechProgress.spectatorsLabel>
+  
+</LanguageData>
