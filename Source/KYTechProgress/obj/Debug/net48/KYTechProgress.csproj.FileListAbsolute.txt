@@ -1,0 +1,9 @@
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]Tech Progress\Assemblies\net48\KYTechProgress.dll
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]Tech Progress\Assemblies\net48\KYTechProgress.pdb
+C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.csproj.AssemblyReference.cache
+C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.AssemblyInfoInputs.cache
+C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.AssemblyInfo.cs
+C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.csproj.CoreCompileInputs.cache
+C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.dll
+C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.pdb
