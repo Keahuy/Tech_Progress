@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keahuy\\RiderProjects\\KYTechProgress\\KYTechProgress.csproj": {}
+    "F:\\Steam\\steamapps\\common\\RimWorld\\Mods\\[KY]TechProgress\\Source\\KYTechProgress\\KYTechProgress.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keahuy\\RiderProjects\\KYTechProgress\\KYTechProgress.csproj": {
+    "F:\\Steam\\steamapps\\common\\RimWorld\\Mods\\[KY]TechProgress\\Source\\KYTechProgress\\KYTechProgress.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keahuy\\RiderProjects\\KYTechProgress\\KYTechProgress.csproj",
+        "projectUniqueName": "F:\\Steam\\steamapps\\common\\RimWorld\\Mods\\[KY]TechProgress\\Source\\KYTechProgress\\KYTechProgress.csproj",
         "projectName": "KYTechProgress",
-        "projectPath": "C:\\Users\\Keahuy\\RiderProjects\\KYTechProgress\\KYTechProgress.csproj",
+        "projectPath": "F:\\Steam\\steamapps\\common\\RimWorld\\Mods\\[KY]TechProgress\\Source\\KYTechProgress\\KYTechProgress.csproj",
         "packagesPath": "C:\\Users\\Keahuy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keahuy\\RiderProjects\\KYTechProgress\\obj\\",
+        "outputPath": "F:\\Steam\\steamapps\\common\\RimWorld\\Mods\\[KY]TechProgress\\Source\\KYTechProgress\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

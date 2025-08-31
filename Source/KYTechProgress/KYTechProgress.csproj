@@ -8,12 +8,12 @@
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
-      <OutputPath>F:\Steam\steamapps\common\RimWorld\Mods\[KY]Tech Progress\Assemblies</OutputPath>
+      <OutputPath>F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Assemblies\</OutputPath>
       <DebugSymbols>false</DebugSymbols>
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
-      <OutputPath>F:\Steam\steamapps\common\RimWorld\Mods\[KY]Tech Progress\Assemblies</OutputPath>
+      <OutputPath>F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Assemblies\</OutputPath>
     </PropertyGroup>
 
     <ItemGroup>

@@ -5,6 +5,7 @@ namespace KYTechProgress
 {
     public class RitualOutcomeEffectWorker_TechProgress : RitualOutcomeEffectWorker_FromQuality
     {
+        public RitualOutcomeEffectWorker_TechProgress(){}
         public RitualOutcomeEffectWorker_TechProgress(RitualOutcomeEffectDef_DoubleChance def) : base(def)
         {
             this.def_DoubleChance = def;

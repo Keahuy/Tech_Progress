@@ -5,6 +5,9 @@ namespace KYTechProgress
 {
     public class RitualObligationTargetWorker_TechProgress : RitualObligationTargetWorker_ThingDef
     {
+        public RitualObligationTargetWorker_TechProgress()
+        {
+        }
         public RitualObligationTargetWorker_TechProgress(RitualObligationTargetFilterDef def) :
             base(def) // 必要的构造器
         {

@@ -7,3 +7,13 @@ C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.Asse
 C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.csproj.CoreCompileInputs.cache
 C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.dll
 C:\Users\Keahuy\RiderProjects\KYTechProgress\obj\Debug\net48\KYTechProgress.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Assemblies\net48\KYTechProgress.dll
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Assemblies\net48\KYTechProgress.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.csproj.AssemblyReference.cache
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.GeneratedMSBuildEditorConfig.editorconfig
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.AssemblyInfoInputs.cache
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.AssemblyInfo.cs
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.csproj.CoreCompileInputs.cache
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.sourcelink.json
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.dll
+F:\Steam\steamapps\common\RimWorld\Mods\[KY]TechProgress\Source\KYTechProgress\obj\Debug\net48\KYTechProgress.pdb

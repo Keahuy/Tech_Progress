@@ -5,6 +5,7 @@ namespace KYTechProgress
 {
     public class RitualBehaviorWorker_TechProgress : RitualBehaviorWorker
     {
+        public RitualBehaviorWorker_TechProgress(){}
         public RitualBehaviorWorker_TechProgress(RitualBehaviorDef def) : base(def)
         {
         }

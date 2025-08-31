@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KYTechProgress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff49537a636f035e26dc1d47f415d831eb8a234")]
 [assembly: System.Reflection.AssemblyProductAttribute("KYTechProgress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KYTechProgress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
