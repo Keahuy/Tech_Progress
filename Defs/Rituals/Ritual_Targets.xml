@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-  <RitualObligationTargetFilterDef>
-    <defName>KY_TechProgress</defName>
-    <label>Technology Progress</label>
-    <workerClass>KYTechProgress.RitualObligationTargetWorker_TechProgress</workerClass>
-    <thingDefs>
-      <li>HiTechResearchBench</li>
-      <li>SimpleResearchBench</li>
-    </thingDefs>
-  </RitualObligationTargetFilterDef>
+    <RitualObligationTargetFilterDef>
+        <defName>KY_TechProgress</defName>
+        <label>Technology Progress</label>
+        <workerClass>KYTechProgress.RitualObligationTargetWorker_TechProgress</workerClass>
+        <thingDefs>
+            <li>HiTechResearchBench</li>
+            <li>SimpleResearchBench</li>
+        </thingDefs>
+    </RitualObligationTargetFilterDef>
+
+    <RitualTargetFilterDef>
+        <defName>KYTechProgressSelectedThing</defName>
+        <workerClass>RitualTargetFilter_SelectedThing</workerClass>
+    </RitualTargetFilterDef>
 
 </Defs>

@@ -6,7 +6,7 @@
 		<descOverride>Researchers came together for a brainstorming session to jointly explore avenues toward the next technological level.</descOverride>
 		<ritualOnlyForIdeoMembers>false</ritualOnlyForIdeoMembers>
 		<ritualBehavior>KY_TechProgress</ritualBehavior>
-		<ritualTargetFilter>SelectedThing</ritualTargetFilter>
+		<ritualTargetFilter>KYTechProgressSelectedThing</ritualTargetFilter>
 		<ritualObligationTargetFilter>KY_TechProgress</ritualObligationTargetFilter>
 		<ritualOutcomeEffect>KY_TechProgress</ritualOutcomeEffect>
 		<playsIdeoMusic>false</playsIdeoMusic>
