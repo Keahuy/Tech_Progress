@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "McqI/DclBxs=",
+  "dgSpecHash": "vY61W4ANTaY=",
   "success": true,
-  "projectFilePath": "F:\\Steam\\steamapps\\common\\RimWorld\\Mods\\[KY]TechProgress\\Source\\KYTechProgress\\KYTechProgress.csproj",
+  "projectFilePath": "F:\\Steam\\steamapps\\common\\RimWorld\\Mods\\KYTechProgress\\Source\\KYTechProgress\\KYTechProgress.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Keahuy\\.nuget\\packages\\krafs.rimworld.ref\\1.6.4566\\krafs.rimworld.ref.1.6.4566.nupkg.sha512"
   ],
